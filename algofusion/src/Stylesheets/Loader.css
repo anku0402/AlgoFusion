@@ -1,0 +1,18 @@
+.AdminLoadercon{
+    width: 100%;
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.AdminLoader{
+    width: 40%;
+    height: 50%;
+    border-radius: 10px;
+}
+.AdminLoaderText{
+    font-size: 40px;
+    color: #071952;
+    margin-top: 25px;
+}
